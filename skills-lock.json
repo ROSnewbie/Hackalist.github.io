@@ -12,6 +12,12 @@
       "sourceType": "github",
       "skillPath": "landing-page-copywriter/SKILL.md",
       "computedHash": "f86f1a5d1f6138f935b1d2760c958a7f8179a8584e8526fbd176bdcf7ab48304"
+    },
+    "seo-aeo-best-practices": {
+      "source": "sanity-io/agent-toolkit",
+      "sourceType": "github",
+      "skillPath": "skills/seo-aeo-best-practices/SKILL.md",
+      "computedHash": "edb99db85683ff99678fcb1bebc3a5653c3ea927eea9ee2534f19be86c7b8b81"
     }
   }
 }
